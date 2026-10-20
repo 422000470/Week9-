@@ -1,0 +1,13 @@
+Customer: Erie
+Coffee: Iced Coffee
+Price: P100.00
+-------------------
+Customer: Ryy
+Coffee: Cappuccino
+Price: P120.00
+-------------------
+Updated Order:
+Customer: Erie
+Coffee: Iced Coffee
+Price: P120.00
+-------------------
